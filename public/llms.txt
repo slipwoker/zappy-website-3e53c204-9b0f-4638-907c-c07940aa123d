@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+איתי ישראלוב — פזמונאי, מחזאי ומעצב גרפי מבאר שבע. יצירה אותנטית שנובעת מתוך ייחודיות אישית ותשוקה אמנותית. גלו עולם יצירתי שמחבר בין מוזיקה, תיאטרון ועיצוב.
+
+### תחומי יצירה
+https://example.com/creative-fields
+פזמונאות שנוגעת בלב, כתיבת מחזות מקצועית ועיצוב גרפי לעסקים קטנים — כל תחום יצירה של איתי ישראלוב מספר סיפור שונה. גלו את מגוון היצירות והשירותים המוצעים.
+
+### אודות
+https://example.com/about
+איתי ישראלוב, בן 27 מבאר שבע, יוצר על הספקטרום האוטיסטי שהפך את ייחודיותו למקור כוח. פזמונאות, מחזאות ועיצוב גרפי שנולדים מחיים אמיתיים — הכירו את האדם מאחורי האמנות.
+
+### צור קשר
+https://example.com/contact
+מפיקים, במאים ולקוחות עיצוב — צרו קשר עם איתי ישראלוב לפרויקטים של פזמונאות, כתיבת מחזות ועיצוב גרפי לעסקים קטנים. כל יצירה גדולה מתחילה בשיחה אחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
