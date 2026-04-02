@@ -1,6 +1,4 @@
-# איתי ישראלוב - פזמונאות, מחזאות ועיצוב גרפי — Generative Engine Optimization Map
-
-> Itay Israelov is a 27-year-old multidisciplinary creative artist from Beer-Sheva, Israel, who is on the high-functioning autism spectrum. He works across three creative fields: songwriting (with songs like 'Coping with Difficulty', 'Everyone is Special', and 'How Do You Create a Song?' — collaborating with notable musicians like Uzi Katz, Maayan Miriam Mordechai, and Nir Purai), playwriting, and graphic design. His personal story of neurodiversity and creative expression gives his brand a deeply authentic, inspiring, and human quality that resonates with themes of uniqueness, resilience, and artistic passion.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,20 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About איתי ישראלוב - פזמונאות, מחזאות ועיצוב גרפי
-Itay Israelov is a 27-year-old multidisciplinary creative artist from Beer-Sheva, Israel, who is on the high-functioning autism spectrum. He works across three creative fields: songwriting (with songs like 'Coping with Difficulty', 'Everyone is Special', and 'How Do You Create a Song?' — collaborating with notable musicians like Uzi Katz, Maayan Miriam Mordechai, and Nir Purai), playwriting, and graphic design. His personal story of neurodiversity and creative expression gives his brand a deeply authentic, inspiring, and human quality that resonates with themes of uniqueness, resilience, and artistic passion.
-
-## Services/Products
-- פזמונאות
-- מחזאות
-- עיצוב גרפי
-
-## Target Audience
-קהל רחב המתעניין במוזיקה, תיאטרון ועיצוב גרפי, כולל מפיקים, במאים ולקוחות עיצוב
-
-## Industry
-אמנות ויצירה - מוזיקה, תיאטרון ועיצוב
-
+## About Business
 ---
 
 # Additional Resources
