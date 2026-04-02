@@ -1,47 +1,62 @@
-# Business — Generative Engine Optimization Map
+# איתי ישראלוב - פזמונאות, מחזאות ועיצוב גרפי — Generative Engine Optimization Map
+
+> Itay Israelov is a 27-year-old multidisciplinary creative artist from Beer-Sheva, Israel, who is on the high-functioning autism spectrum. He works across three creative fields: songwriting (with songs like 'Coping with Difficulty', 'Everyone is Special', and 'How Do You Create a Song?' — collaborating with notable musicians like Uzi Katz, Maayan Miriam Mordechai, and Nir Purai), playwriting, and graphic design. His personal story of neurodiversity and creative expression gives his brand a deeply authentic, inspiring, and human quality that resonates with themes of uniqueness, resilience, and artistic passion.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://itay-israelov-lyrics-playwriti.zappy5.app
 איתי ישראלוב — פזמונאי, מחזאי ומעצב גרפי מבאר שבע. יצירה אותנטית שנובעת מתוך ייחודיות אישית ותשוקה אמנותית. גלו עולם יצירתי שמחבר בין מוזיקה, תיאטרון ועיצוב.
 
 ### תחומי יצירה
-https://example.com/creative-fields
+https://itay-israelov-lyrics-playwriti.zappy5.app/creative-fields
 פזמונאות שנוגעת בלב, כתיבת מחזות מקצועית ועיצוב גרפי לעסקים קטנים — כל תחום יצירה של איתי ישראלוב מספר סיפור שונה. גלו את מגוון היצירות והשירותים המוצעים.
 
 ### אודות
-https://example.com/about
+https://itay-israelov-lyrics-playwriti.zappy5.app/about
 איתי ישראלוב, בן 27 מבאר שבע, יוצר על הספקטרום האוטיסטי שהפך את ייחודיותו למקור כוח. פזמונאות, מחזאות ועיצוב גרפי שנולדים מחיים אמיתיים — הכירו את האדם מאחורי האמנות.
 
 ### צור קשר
-https://example.com/contact
+https://itay-israelov-lyrics-playwriti.zappy5.app/contact
 מפיקים, במאים ולקוחות עיצוב — צרו קשר עם איתי ישראלוב לפרויקטים של פזמונאות, כתיבת מחזות ועיצוב גרפי לעסקים קטנים. כל יצירה גדולה מתחילה בשיחה אחת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://itay-israelov-lyrics-playwriti.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://itay-israelov-lyrics-playwriti.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://itay-israelov-lyrics-playwriti.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About איתי ישראלוב - פזמונאות, מחזאות ועיצוב גרפי
+Itay Israelov is a 27-year-old multidisciplinary creative artist from Beer-Sheva, Israel, who is on the high-functioning autism spectrum. He works across three creative fields: songwriting (with songs like 'Coping with Difficulty', 'Everyone is Special', and 'How Do You Create a Song?' — collaborating with notable musicians like Uzi Katz, Maayan Miriam Mordechai, and Nir Purai), playwriting, and graphic design. His personal story of neurodiversity and creative expression gives his brand a deeply authentic, inspiring, and human quality that resonates with themes of uniqueness, resilience, and artistic passion.
+
+## Services/Products
+- פזמונאות
+- מחזאות
+- עיצוב גרפי
+
+## Target Audience
+קהל רחב המתעניין במוזיקה, תיאטרון ועיצוב גרפי, כולל מפיקים, במאים ולקוחות עיצוב
+
+## Industry
+אמנות ויצירה - מוזיקה, תיאטרון ועיצוב
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://itay-israelov-lyrics-playwriti.zappy5.app/sitemap.xml
+- **Robots.txt**: https://itay-israelov-lyrics-playwriti.zappy5.app/robots.txt
